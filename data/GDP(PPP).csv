@@ -1,0 +1,193 @@
+Rank,Country,INT
+0,World,126687917 
+1,China[n 1],23159107 
+0,European Union[n 2],20982857 
+2,United States,19390600 
+3,India,9459002 
+4,Japan,5428813 
+5,Germany,4170790 
+6,Russia,4007831 
+7,Indonesia,3242771 
+8,Brazil,3240319 
+9,United Kingdom,2914042 
+10,France,2835746 
+11,Mexico,2458357 
+12,Italy,2310902 
+13,Turkey,2173227 
+14,South Korea,2029032 
+15,Spain,1773906 
+16,Saudi Arabia,1773551 
+17,Canada,1769270 
+18,Iran,1644705 
+19,Australia,1246475 
+20,Thailand,1233737 
+21,Egypt,1201188 
+22,Taiwan,1185480 
+23,Poland,1121009 
+24,Nigeria,1118756 
+25,Pakistan,1056987 
+26,Malaysia,930750 
+27,Argentina,920249 
+28,Netherlands,916078 
+29,Philippines,875572 
+30,South Africa,765568 
+31,Colombia,714004 
+32,Bangladesh,687144 
+33,United Arab Emirates,686831 
+34,Iraq,658791 
+35,Vietnam,647369 
+36,Algeria,632904 
+37,Belgium,528458 
+38,Singapore,527021 
+39,Sweden,520937 
+40, Switzerland,517172 
+41,Romania,481453 
+42,Kazakhstan,477593 
+43,Hong Kong,454912 
+44,Chile,451070 
+45,Austria,439575 
+46,Peru,424385 
+47,Venezuela,380743 
+48,Norway,380006 
+49,Czech Republic,375679 
+50,Ukraine,368784 
+51,Qatar,347887 
+52,Ireland,343682 
+53,Myanmar,334856 
+54,Israel,316120 
+55,Portugal,310651 
+56,Kuwait,309640 
+57,Greece,302150 
+58,Morocco,300556 
+59,Hungary,284266 
+60,Denmark,284040 
+61,Sri Lanka,278415 
+62,Finland,239662 
+63,Uzbekistan,222792 
+64,Ethiopia,194980 
+65,Angola,193935 
+66,Oman,189582 
+67,Sudan,186715 
+68,New Zealand,186476 
+69,Ecuador,184629 
+70,Slovak Republic,179527 
+71,Dominican Republic,174180 
+72,Belarus,173405 
+73,Azerbaijan,167431 
+74,Kenya,164340 
+75,Tanzania,163522 
+76,Bulgaria,152079 
+77,Guatemala,138987 
+78,Tunisia,136797 
+79,Ghana,131498 
+80,Puerto Rico,129848 
+81,Serbia,107131 
+82,Turkmenistan,103987 
+83,Panama,100512 
+84,Croatia,100006 
+85,C?te d'Ivoire,95887 
+86,Uganda,91212 
+87,Lithuania,90387 
+88,Jordan,89555 
+89,Lebanon,88786 
+90,Libya,87067 
+91,Costa Rica,85781 
+92,Bolivia,83608 
+93,Cameroon,81535 
+94,Uruguay,77800 
+95,  Nepal,77147 
+96,Yemen,74250 
+97,Bahrain,69922 
+98,Slovenia,69358 
+99,Zambia,68648 
+100,Democratic Republic of the Congo,68331 
+101,Paraguay,68005 
+102,Afghanistan,67462 
+103,Macau,65732 
+104,Cambodia,64405 
+105,Luxembourg,63549 
+106,El Salvador,57285 
+107,Latvia,53268 
+108,Honduras,45628 
+109,Trinidad and Tobago,44654 
+110,Laos,44639 
+111,Bosnia and Herzegovina,44462 
+112,Senegal,43326 
+113,Mali,40974 
+114,Estonia,41202 
+115,Madagascar,40055 
+116,Georgia,39318 
+117,Botswana,39054 
+118,Mongolia,37731 
+119,Mozambique,37321 
+120,Gabon,36999 
+121,Albania,36198 
+122,Nicaragua,35835 
+123,Burkina Faso,35598 
+124,Brunei Darussalam,32838 
+125,Macedonia,31924 
+126,Cyprus,31093 
+127,Equatorial Guinea,30807 
+128,Republic of Congo,30607 
+129,Zimbabwe,29795 
+130,Chad,29730 
+131,Papua New Guinea,29481 
+132,Tajikistan,27802 
+133,Mauritius,27507 
+134,Namibia,27451 
+135,Armenia,27116 
+136,Jamaica,26474 
+137,Benin,25407 
+138,Rwanda,24717 
+139,Kyrgyz Republic,22737 
+140,Malawi,22577 
+141,Kosovo,22405 
+142,Niger,21655 
+143,South Sudan,20423 
+144,Moldova,20207 
+145,Haiti,19979 
+146,Malta,18404 
+147,Iceland,17846 
+148,Mauritania,17421 
+149,Guinea,17056 
+150,Togo,12494 
+151,Sierra Leone,11551 
+152,Swaziland,11352 
+153,Montenegro,10934 
+154,Eritrea,9678 
+155,The Bahamas,9374 
+156,Fiji,8798 
+157,Burundi,8024 
+158,Suriname,7961 
+159,Lesotho,7287 
+160,Bhutan,7045 
+161,Guyana,6398 
+162,Maldives,5853 
+163,Barbados,4983 
+164,Timor-Leste,4567 
+165,Liberia,3960 
+166,Cape Verde,3762 
+167,Djibouti,3658 
+168,The Gambia,3607 
+169,Central African Republic,3411 
+170,Belize,3252 
+171,Guinea-Bissau,3089 
+172,Seychelles,2761 
+173,Antigua and Barbuda,2372 
+174,St. Lucia,2110 
+175,San Marino,2093 
+176,Grenada,1588 
+177,St. Kitts and Nevis,1544 
+178,Comoros,1329 
+179,St. Vincent and the Grenadines,1299 
+180,Solomon Islands,1247 
+181,Samoa,1129 
+182,Dominica,847 
+183,Vanuatu,772 
+184,S?o Tom? and Pr?ncipe,685 
+185,Tonga,597 
+186,Micronesia,345 
+187,Palau,297 
+188,Kiribati,222 
+189,Marshall Islands,188 
+190,Tuvalu,41 
